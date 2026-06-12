@@ -1,15 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on AI Powered Websites<br>👯 I’m looking to collaborate on AI Developement<br>🤝 I’m looking for help with Generative AI and AI Automation
+# 👋 Hi, I'm Aliya Thabasum
 
+🎓 Computer Science Engineering Student at Arunai Engineering College
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AliyaThabasum01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AliyaThabasum01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaThabasum01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🤖 AI Enthusiast | Full-Stack Developer | Data Analytics Learner
 
----
-[![](https://visitcount.itsvg.in/api?id=AliyaThabasum01&icon=0&color=0)](https://visitcount.itsvg.in)
+I enjoy building AI-powered applications, exploring Generative AI, and creating solutions that solve real-world problems. I'm passionate about Machine Learning, Data Analytics, and Full-Stack Development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Working On
+
+* AI-powered web applications
+* Generative AI projects
+* Data Analytics and Visualization
+* Full-Stack Development
+
+## 💡 Featured Projects
+
+### 🩺 Healthcare Support Portal
+
+A healthcare support web application with AI-inspired query categorization for NGOs and healthcare organizations.
+
+### 📈 Bitcoin Sentiment Analysis
+
+Analyzed the relationship between Bitcoin market sentiment and trader performance using real-world trading data.
+
+### 🌙 Dream Decoder
+
+An AI-based dream interpretation chatbot built using Java and NLP concepts.
+
+### 🎯 Opportunity Radar
+
+An AI-powered platform designed to match students with internships, scholarships, and hackathons.
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • Java • JavaScript • C++ • SQL
+
+### AI & Data
+
+Generative AI • NLP • Machine Learning • Pandas • Power BI • Jupyter Notebook
+
+### Web Development
+
+HTML • CSS • React • Tailwind CSS • FastAPI
+
+### Tools & Platforms
+
+Git • GitHub • Docker • PostgreSQL • AWS • Google Cloud
+
+## 🌱 Currently Learning
+
+* AI Agents
+* RAG Systems
+* Prompt Engineering
+* Advanced Data Analytics
+* Cloud AI Platforms
+
+## 📫 Connect With Me
+
+📧 Email: [coolaliya07@gmail.com](mailto:coolaliya07@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/aliya-thabasum-25097a395
+
+⭐ Open to internships, collaborations, and exciting AI projects.
