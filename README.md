@@ -55,7 +55,7 @@ Youth Code x AI Hackathon 2026
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliyaThabasum01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaThabasum01&theme=radical&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=AliyaThabasum01&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
