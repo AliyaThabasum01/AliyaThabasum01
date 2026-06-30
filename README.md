@@ -51,19 +51,6 @@ Youth Code x AI Hackathon 2026
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliyaThabasum01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=AliyaThabasum01&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaThabasum01&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
----
-
 ### Currently
 
 - Building agentic AI systems with multi-agent architectures
