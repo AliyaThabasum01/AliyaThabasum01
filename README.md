@@ -72,7 +72,3 @@ Youth Code x AI Hackathon 2026
 - Reach me: coolaliya07@gmail.com
 
 <p align="center"><i>Profile views: <img src="https://komarev.com/ghpvc/?username=AliyaThabasum01&color=7C3AED" alt="views"/></i></p>
-
-
-
-
