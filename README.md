@@ -1,48 +1,77 @@
-# Hi there! 👋 I'm Aliya Thabasum
+<h1 align="center">Hi, I'm Aliya Thabasum</h1>
+<h3 align="center">CSE Undergrad · Agentic AI & Full-Stack Builder</h3>
 
-I'm a 2nd-year Computer Science Engineering student passionate about AI, Generative AI, and Full-Stack Development. I love building intelligent applications that solve real problems — from AI-powered platforms to data-driven tools.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+AI+Agents+that+actually+work;Next.js+%7C+Supabase+%7C+Groq+%7C+RAG;2nd+Year+CSE+%40+Arunai+Engineering+College" alt="Typing SVG" />
+</p>
 
-## About Me
-📍 Based in Tiruvannamalai, Tamil Nadu, India
-🎓 B.E. CSE @ Arunai Engineering College, Anna University (CGPA: 8.3)
-🤖 Exploring AI Agents, RAG, and LLM-powered applications
-💻 I enjoy turning ideas into working products — end to end, from backend to UI
+<p align="center">
+  <a href="https://linkedin.com/in/aliya-thabasum-25097a395"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:coolaliya07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-## 🚀 Featured Project
-**[Opportunity Radar](https://bejewelled-klepon-4a2b16.netlify.app)** — An AI-powered platform matching students with 10,000+ internships, hackathons & scholarships using semantic search (bge-m3 embeddings + Llama 3.2 for explanations). Built full-stack with FastAPI, PostgreSQL, Redis, React & Tailwind.
+---
 
-## 🛠️ Tech Stack
+### Flagship Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<td width="50%">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Debate Arena**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Multi-agent AI debate platform — PRO/CON agents argue, a fact-checker verifies claims live, and a judge agent scores every round.
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+`Next.js` `Supabase` `Groq` `Llama 3.1`
 
-## 🌱 Currently Learning
-AI Agents • RAG • Prompt Engineering • ML Deployment
+[Live Demo](https://debate-arena-zdz8.vercel.app/) · [Repo](https://github.com/AliyaThabasum01/debate-arena)
 
-## 📫 Connect
-📧 coolaliya07@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/aliya-thabasum-25097a395)
+</td>
+<td width="50%">
 
-⭐ Open to internships, collaborations & exciting AI projects!
+**Opportuna**
+
+AI career guidance agent for students 16–26. RAG-powered, gives personalized roadmaps using a vector knowledge base.
+
+`Flowise` `Groq` `Qdrant` `HuggingFace` `RAG`
+
+Youth Code x AI Hackathon 2026
+
+</td>
+</tr>
+</table>
+
+---
+
+### Tech I Work With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,git,github,vscode,supabase,figma&theme=dark" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliyaThabasum01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyaThabasum01&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyaThabasum01&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+### Currently
+
+- Building agentic AI systems with multi-agent architectures
+- Learning FastAPI and React for full-stack agent platforms
+- Ask me about RAG pipelines, vector databases, or AI agent orchestration
+- Reach me: coolaliya07@gmail.com
+
+<p align="center"><i>Profile views: <img src="https://komarev.com/ghpvc/?username=AliyaThabasum01&color=7C3AED" alt="views"/></i></p>
 
 
 
