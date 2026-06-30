@@ -64,24 +64,11 @@ Youth Code x AI Hackathon 2026
 
 ---
 
-### Recently Played on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" />
-</p>
-
----
-
 ### Currently
 
 - Building agentic AI systems with multi-agent architectures
 - Learning FastAPI and React for full-stack agent platforms
 - Ask me about RAG pipelines, vector databases, or AI agent orchestration
 - Reach me: coolaliya07@gmail.com
-
-<p align="center">
-  <a href="https://linkedin.com/in/aliya-thabasum-25097a395"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:coolaliya07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
 
 <p align="center"><i>Profile views: <img src="https://komarev.com/ghpvc/?username=AliyaThabasum01&color=7C3AED" alt="views"/></i></p>
