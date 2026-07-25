@@ -2,7 +2,7 @@
 <h3 align="center">CSE Undergrad · Agentic AI & Full-Stack Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+AI+Agents+that+actually+work;Next.js+%7C+Supabase+%7C+Groq+%7C+RAG;2nd+Year+CSE+%40+Arunai+Engineering+College" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Building+AI+Agents+that+actually+work;Next.js+%7C+Supabase+%7C+Groq+%7C+RAG;3rd+Year+CSE+%40+Arunai+Engineering+College" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,22 +19,16 @@
 <td width="50%">
 
 **Debate Arena**
-
 Multi-agent AI debate platform — PRO/CON agents argue, a fact-checker verifies claims live, and a judge agent scores every round.
-
 `Next.js` `Supabase` `Groq` `Llama 3.1`
-
 [Live Demo](https://debate-arena-zdz8.vercel.app/) · [Repo](https://github.com/AliyaThabasum01/debate-arena)
 
 </td>
 <td width="50%">
 
 **Opportuna**
-
 AI career guidance agent for students 16–26. RAG-powered, gives personalized roadmaps using a vector knowledge base.
-
 `Flowise` `Groq` `Qdrant` `HuggingFace` `RAG`
-
 Youth Code x AI Hackathon 2026
 
 </td>
@@ -52,11 +46,9 @@ Youth Code x AI Hackathon 2026
 ---
 
 ### Currently
-
 - Building agentic AI systems with multi-agent architectures
 - Learning FastAPI and React for full-stack agent platforms
 - Ask me about RAG pipelines, vector databases, or AI agent orchestration
 - Reach me: coolaliya07@gmail.com
 
 <p align="center"><i>Profile views: <img src="https://komarev.com/ghpvc/?username=AliyaThabasum01&color=7C3AED" alt="views"/></i></p>
-
